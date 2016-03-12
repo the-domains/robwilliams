@@ -1,4 +1,4 @@
-name: robwilliams
+name: Rob Williams
 favicon: null
 layout_spectrum: 0.4256
 typography_spectrum: 0.3305509
@@ -23,7 +23,7 @@ color:
     - '#0d0d0d'
     - '#d09e2d'
   brandStrength: 0.252195
-  lightness: 0.0006913482
+  lightness: 0
   saturation: 0.04540939
-  rhythmicContrast: 0.01168504
+  rhythmicContrast: 0
 purpose: []
