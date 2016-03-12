@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Augmented Reality - Is \"Metaphor\" a step too far.\_"
-datePublished: '2016-03-12T20:17:13.641Z'
-dateModified: '2016-03-12T20:16:54.245Z'
+datePublished: '2016-03-12T20:26:21.068Z'
+dateModified: '2016-03-12T20:26:08.536Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-augmented-reality-is-metaphor-a-step-too-far.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-augmented-reality-is-metaphor-a-step-too-far.md
-published: true
 url: augmented-reality-is-metaphor-a-step-too-far/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b251b481-50b9-4c4f-8fc2-26ac56447728.jpg)
+
 Augmented Reality - Is "Metaphor" a step too far. 
 
 For a long time now, Augmented Reality has been established and embedded in western society as a force for good. 
